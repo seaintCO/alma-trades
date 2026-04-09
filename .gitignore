@@ -1,0 +1,20 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+*.log
+npm-debug.log*
+.DS_Store
+
+# Prevent unsupported binary assets in this repository
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.ico
+*.pdf
+*.zip
+*.mp4
+*.mov
